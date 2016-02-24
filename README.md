@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist zana/yii2-rss "dev-master"
 or add
 
 ```
-"zana/yii2-rss": "*"
+"zana/yii2-rss": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
