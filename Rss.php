@@ -9,6 +9,10 @@ class Rss extends \yii\base\Widget
 {
     public function run()
     {
-        return "Hello!";
+        return "Hia";
+    }
+    public function actionIndex()
+    {
+    	echo "string";
     }
 }
