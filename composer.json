@@ -1,5 +1,5 @@
 {
-    "name": "zana/yii2-rss",
+    "name": "zana/rss",
     "description": "create rss use by array or db data",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","rss","zana"],
